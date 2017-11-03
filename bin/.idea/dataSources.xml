@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="929310336">
+    <data-source source="LOCAL" name="H2 - db" uuid="fab9b7bb-0167-45f6-97b5-6c7a49769b84">
+      <driver-ref>h2.remote</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:./db:files</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>

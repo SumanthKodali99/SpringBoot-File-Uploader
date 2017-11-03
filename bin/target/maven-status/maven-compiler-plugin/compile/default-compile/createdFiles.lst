@@ -1,0 +1,9 @@
+com/project/sivakodali/controllers/FilesController.class
+com/project/sivakodali/repository/MetaDataRepository.class
+com/project/sivakodali/App.class
+com/project/sivakodali/services/FileService.class
+com/project/sivakodali/config/AppConfig.class
+com/project/sivakodali/services/MetaDataService.class
+com/project/sivakodali/entity/MetaData.class
+com/project/sivakodali/controllers/MetaDataController.class
+com/project/sivakodali/dto/MetaDataDto.class
